@@ -12,6 +12,12 @@ Hello! 👋 I'm a third-year B.Tech Computer Science student 💻 with a strong 
 ![](https://nirzak-streak-stats.vercel.app/?user=ayush-singh06&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-singh06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align=center>
+   <a href="https://sabyasachiseal.com">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayush-singh06&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
