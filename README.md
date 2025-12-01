@@ -12,9 +12,10 @@ Hello! 👋 I'm a third-year B.Tech Computer Science student 💻 with a strong 
 ![](https://nirzak-streak-stats.vercel.app/?user=ayush-singh06&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-singh06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align=center>
+<div align=center>            
    <a href="https://sabyasachiseal.com">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=e3d20c&center=true&vCenter=true&width=450%&lines=Shoutout+to+my+followers+!!!" />
+   <img width=100% height=100% align="center" alt="Followers" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/followers.svg" />
    </a>
 </div>
 
